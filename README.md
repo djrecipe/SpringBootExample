@@ -23,3 +23,5 @@ The Java code is very simple. The [initial tutorial link](https://spring.io/guid
 * The class uses an attribute, `@RestController`, meaning it is ready for use by Spring MVC to handle web requests
 * The `@GetMapping` attribute on a method maps an endpoint to that method
 * `@RestController` is actually a combination of `@Controller` and `@ResponseBody` - together these ensure that the requests result in a **data** response rather than a **view**
+
+<img width="296" alt="firefox_9CPUzZZBXe" src="https://github.com/user-attachments/assets/b9092858-ec2c-41ba-bf7b-38bcdc7ec37e" />

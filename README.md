@@ -25,3 +25,9 @@ The Java code is very simple. The [initial tutorial link](https://spring.io/guid
 * `@RestController` is actually a combination of `@Controller` and `@ResponseBody` - together these ensure that the requests result in a **data** response rather than a **view**
 
 <img width="296" alt="firefox_9CPUzZZBXe" src="https://github.com/user-attachments/assets/b9092858-ec2c-41ba-bf7b-38bcdc7ec37e" />
+
+Hmmm, this needs a bit of spicing up. I added a reference to jsoup and am now scraping _whitehouse.gov_ div class `wp-block-whitehouse-header__administration` to determine the current president of the US at any given time:
+
+<img width="300" alt="firefox_pFhqboAIR5" src="https://github.com/user-attachments/assets/a73fcb7b-ce8e-4ede-891d-d4b3dcbb439a" />
+
+A nice scary reminder.
